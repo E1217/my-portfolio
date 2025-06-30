@@ -157,12 +157,12 @@ export default function Portfolio() {
       >
         <div className="max-w-4xl mx-auto">
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-light mb-6">
-            Hello, I'm <span className="bg-gradient-to-r from-blue-400 to-pink-500 bg-clip-text text-transparent font-normal">
+            Hello, I&apos;m <span className="bg-gradient-to-r from-blue-400 to-pink-500 bg-clip-text text-transparent font-normal">
             Elgie
           </span>.
           </h1>
           <p className="text-xl md:text-2xl lg:text-3xl font-light mb-12 text-gray-300">
-            I'm a full stack web developer.
+            I&apos;m a full stack web developer.
           </p>
           <div className="inline-block bg-gradient-to-r from-blue-400 to-pink-500 p-[1px] rounded-md transition hover:from-blue-500 hover:to-pink-600">
             <div className="bg-black rounded-md w-full h-full">
@@ -196,8 +196,8 @@ export default function Portfolio() {
             </div>
             <div className="text-center ">
               <p className="text-gray-300 leading-relaxed text-lg">
-                I'm a full stack developer driven by a passion for continuous learning. I specialize in JavaScript,
-                React, and modern web development, and I'm especially inspired by the blend of creativity, logic, and
+                I&apos;m a full stack developer driven by a passion for continuous learning. I specialize in JavaScript,
+                React, and modern web development, and I&apos;m especially inspired by the blend of creativity, logic, and
                 technology that coding offers. I have a growing interest in machine learning and AI integration, excited
                 by the potential they bring to the future of development. Outside of tech, I love drawing, spending time
                 with my family, and listening to music.
@@ -259,7 +259,7 @@ export default function Portfolio() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-light mb-8">Get In Touch</h2>
           <p className="text-xl text-gray-300 mb-12">
-            I'm always open to discussing new opportunities and interesting projects.
+            I&apos;m always open to discussing new opportunities and interesting projects.
           </p>
           <div className="flex justify-center space-x-8">
           <a href="mailto:elgieimperial@example.com" target="_blank" rel="noopener noreferrer">
